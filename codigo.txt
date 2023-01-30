@@ -1,0 +1,4 @@
+entero numero = 21;
+cadena chain = "hola";
+si(numero==2){imprimir(chain);}sino{imprimir("nada");}
+mientras(numero==21){numero--;}
