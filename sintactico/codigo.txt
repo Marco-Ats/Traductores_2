@@ -1,0 +1,3 @@
+si (menor > mayor){imprimir(siu);}
+entero ent = 5;
+decimal dec=5.5;
