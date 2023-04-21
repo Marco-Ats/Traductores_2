@@ -1,0 +1,10 @@
+asm add 22 -2;
+asm sub 10 5;
+asm mul 6 3;
+asm div 80 10;
+asm pow 3 3;
+asm rot 16;
+asm sin 2.5;
+asm cos 3.1;
+asm tan 2.03;
+
